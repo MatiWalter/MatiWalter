@@ -2,8 +2,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre Mi </h3>
-<h4> Soy estudiante de la Licenciatura en Sistemas de Informacion en la Universidad Nacional de Luján <h4>
-<h4> y en mis tiempos libres estudio Desarrollo Web </h4>
+<h4> Soy estudiante de la Licenciatura en Sistemas de Informacion en la Universidad Nacional de Luján 
+y en mis tiempos libres estudio Desarrollo Web <h4>
 
 - 🎓 &nbsp; Actualmente me encuentro estudiando ReactJs y NodeJs.
 - 🤔 &nbsp; Me encanta aprender cosas nuevas.
