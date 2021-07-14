@@ -12,9 +12,8 @@ y en mis tiempos libres estudio Desarrollo Web <h4>
 <h3>🛠 Skills </h3>
 
 - 💻 &nbsp; Java | Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs
 - 🛢 &nbsp; MySQL | MongoDb
-- 🔧 &nbsp; IntelliJ IDEA | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Illustrator | Photoshop
 
 <h3> 🤝🏻 Contactame </h3>
