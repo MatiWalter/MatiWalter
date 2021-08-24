@@ -1,24 +1,47 @@
-<h2> Hola! Soy Matías. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+# Hola! Soy Matías 👋🏻
 
-<h3> 👨🏻‍💻 Sobre Mi </h3>
-<h4> Soy estudiante de la Licenciatura en Sistemas de Informacion en la Universidad Nacional de Luján 
-y en mis tiempos libres estudio Desarrollo Web <h4>
+## 🙎🏻‍♂️ Sobre Mi
 
-- 🎓 &nbsp; Actualmente me encuentro estudiando ReactJs y NodeJs.
-- 🤔 &nbsp; Me encanta aprender cosas nuevas.
-- ✍️ &nbsp; Soy amante del manga, anime y los videojuegos.
+Soy estudiante de la Licenciatura en Sistemas de Informacion en la Universidad Nacional de Luján
+y en mis tiempos libres estudio Desarrollo Web
 
-<h3>🛠 Skills </h3>
+Mis hobbies son:
 
-- 💻 &nbsp; Java | Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJs
-- 🛢 &nbsp; MySQL | MongoDb
-- 🖥 &nbsp; Illustrator | Photoshop
+- 🎮 Jugar videojuegos.
+- 📺 Mirar anime, series y/o películas.
+- ⚽ Jugar y mirar Futbol.
 
-<h3> 🤝🏻 Contactame </h3>
+### /AboutMe.ts
 
-<p align="left">
-&nbsp; <a href="https://www.linkedin.com/in/matias-walter/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:matiwalter97@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+```tsx
+  export interface Person = {
+    name: string;
+    age: number;
+    country: string;
+    profession: string;
+    skills: string[];
+  }  
+
+  const me: Person = {
+    name: 'Matías Walter',
+    age: 24,
+    country: 'Argentina',
+    profession: 'Desarrollador Web Fullstack',
+    skills: ['Typescript', 'React Js', 'Redux' ,'Next Js', 'Node Js', 'Firebase', 'MongoDb']
+  }
+
+  const toString(person: Person): string => {
+    const greeting: string = `Hola! Soy ${person.name}, tengo ${person.age} años y soy ${person.profession}`
+    return greeting;
+  }
+
+  console.log(toString(me));
+  console.log('Mis skills principales son => ', me.skills);
+
+  console.log('Gracias por visitarme!');
+
+```
+
+### 🤝🏻 Contactame
+
+[![linkedin](https://img.icons8.com/plasticine/100/000000/linkedin.png)](https://www.linkedin.com/in/matias-walter/)[![gamil](https://img.icons8.com/plasticine/100/000000/gmail.png)](mailto:matiwalter97@gmail.com)
