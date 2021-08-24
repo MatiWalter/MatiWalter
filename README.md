@@ -11,7 +11,7 @@ Mis hobbies son:
 - 📺 Mirar anime, series y/o películas.
 - ⚽ Jugar y mirar Futbol.
 
-### /AboutMe.ts
+### // AboutMe.ts
 
 ```tsx
   export interface Person = {
