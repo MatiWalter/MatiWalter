@@ -9,7 +9,7 @@ Mis hobbies son:
 
 - 🎮 Jugar videojuegos.
 - 📺 Mirar anime, series y/o películas.
-- ⚽ Jugar y mirar Futbol.
+- ⚽ Jugar al Futbol.
 
 ### // AboutMe.ts
 
