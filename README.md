@@ -8,7 +8,7 @@ y en mis tiempos libres estudio Desarrollo Web
 Mis hobbies son:
 
 - 🎮 Jugar videojuegos.
-- 📺 Mirar anime, series y/o películas.
+- 📺 Mirar anime, series y películas.
 - ⚽ Jugar al Futbol.
 
 ### // AboutMe.ts
