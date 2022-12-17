@@ -1,47 +1,31 @@
-# Hola! Soy Matías 👋🏻
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Matias</h1>
 
-## 🙎🏻‍♂️ Sobre Mi
+## A Full stack Developer from Argentina
 
-Soy estudiante de la Licenciatura en Sistemas de Informacion en la Universidad Nacional de Luján
-y en mis tiempos libres estudio Desarrollo Web
+<img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
 
-Mis hobbies son:
+I'm a focused, dedicated Full Stack Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know.
 
-- 🎮 Jugar videojuegos.
-- 📺 Mirar anime, series y películas.
-- ⚽ Jugar al Futbol.
+- 🔭 I’m currently working on [**Muvinai**](https://www.muvinai.com/)
+- 📚  My hard skill are: **Javascript, React, Python and MongoDB**
+- 🌱 I’m currently learning **Docker and AWS**
+- 🎓 I’m looking forward to learn **React Native and Go**
+- 📫 How to reach me **matiwalter97@gmail.com**
+- 📚 Professional projects in my [**Github**](https://github.com/MatiWalter) repository 
 
-### // AboutMe.ts
+### Connect with me:
 
-```tsx
-  export interface Person = {
-    name: string;
-    age: number;
-    country: string;
-    profession: string;
-    skills: string[];
-  }  
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-  const me: Person = {
-    name: 'Matías Walter',
-    age: 24,
-    country: 'Argentina',
-    profession: 'Desarrollador Web Fullstack',
-    skills: ['Typescript', 'React Js', 'Redux' ,'Next Js', 'Node Js', 'Firebase', 'MongoDb']
-  }
 
-  const toString(person: Person): string => {
-    const greeting: string = `Hola! Soy ${person.name}, tengo ${person.age} años y soy ${person.profession}`
-    return greeting;
-  }
+[gmail]: mailto:matiwalter97@gmail.com
+[linkedin]: https://www.linkedin.com/in/matias-walter
+[whatsapp]: https://api.whatsapp.com/send?phone=542304577576
 
-  console.log(toString(me));
-  console.log('Mis skills principales son => ', me.skills);
+<br />
+<br />
 
-  console.log('Gracias por visitarme!');
-
-```
-
-### 🤝🏻 Contactame
-
-[![linkedin](https://img.icons8.com/plasticine/100/000000/linkedin.png)](https://www.linkedin.com/in/matias-walter/)[![gamil](https://img.icons8.com/plasticine/100/000000/gmail.png)](mailto:matiwalter97@gmail.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiWalter&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiWalter&layout=compact&angs_count=8)
