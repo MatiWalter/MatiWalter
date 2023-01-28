@@ -10,7 +10,7 @@ I'm a focused, dedicated Full Stack Developer. I'm passionate about solving prob
 - 📚  My hard skill are: **Javascript, React, Python and MongoDB**
 - 🌱 I’m currently learning **Docker and AWS**
 - 🎓 I’m looking forward to learn **React Native and Go**
-- 📫 How to reach me **matiwalter97@gmail.com**
+- 📫 How to reach me **matias@muvinai.com**
 - 📚 Professional projects in my [**Github**](https://github.com/MatiWalter) repository 
 
 ### Connect with me:
