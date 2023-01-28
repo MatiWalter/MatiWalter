@@ -20,7 +20,7 @@ I'm a focused, dedicated Full Stack Developer. I'm passionate about solving prob
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
-[gmail]: mailto:matiwalter97@gmail.com
+[gmail]: mailto:matias@muvinai.com
 [linkedin]: https://www.linkedin.com/in/matias-walter
 [whatsapp]: https://api.whatsapp.com/send?phone=542304577576
 
