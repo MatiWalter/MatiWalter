@@ -15,9 +15,9 @@ I'm a focused, dedicated Full Stack Developer. I'm passionate about solving prob
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/linkedin/1cadfb" />][linkedin]
+[<img align="left" alt="codeSTACKr | WhatsApp" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/whatsapp/1cadfb" />][whatsapp]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/gmail/1cadfb" />][gmail]
 
 
 [gmail]: mailto:matias@muvinai.com
@@ -27,5 +27,6 @@ I'm a focused, dedicated Full Stack Developer. I'm passionate about solving prob
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiWalter&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiWalter&layout=compact&angs_count=8)
+[![Matias Walter github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatiWalter&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true%22)](https://github.com/MatiWalter)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiWalter&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiWalter&layout=compact&angs_count=8) -->
