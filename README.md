@@ -27,6 +27,6 @@ I'm a focused, dedicated Full Stack Developer. I'm passionate about solving prob
 <br />
 <br />
 
-[![Matias Walter github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatiWalter&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true%22)](https://github.com/MatiWalter)
+[![Matias Walter github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatiWalter&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true%22)](https://github.com/MatiWalter)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiWalter&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiWalter&layout=compact&angs_count=8) -->
