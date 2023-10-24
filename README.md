@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Matias</h1>
 
-## A Full stack Developer from Argentina
+## A Full Stack Developer from Argentina
 
 <img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
 
