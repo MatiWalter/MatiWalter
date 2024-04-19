@@ -16,7 +16,6 @@ I'm a focused, dedicated Backend Developer. I'm passionate about solving problem
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/linkedin/1cadfb" />][linkedin]
-[<img align="left" alt="codeSTACKr | WhatsApp" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/whatsapp/1cadfb" />][whatsapp]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/gmail/1cadfb" />][gmail]
 
 
